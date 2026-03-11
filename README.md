@@ -11,3 +11,4 @@
 * https://www.philipzucker.com/a-simplified-egraph/
 * https://arxiv.org/pdf/2108.02290
 * https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9767630
+* https://dl.acm.org/doi/pdf/10.1145/3771775.3786266
